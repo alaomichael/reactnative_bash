@@ -6,7 +6,11 @@
   "scripts": {
     "start": "nodemon src/index.js"
   },
-  "dependencies": {},
+  "dependencies": {
+    "expo-cli": "4.2.1",
+    "react": "17.0.1",
+    "react-native": "0.63.4"
+  },
   "devDependencies": {
     "nodemon": "1.18.4"
   },
